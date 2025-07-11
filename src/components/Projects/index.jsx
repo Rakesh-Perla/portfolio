@@ -17,7 +17,7 @@ const projectsList = [
   image: portfolioImage,
   techStack: ['React','HTML', 'CSS', 'JavaScript','Aos'],
   description: 'Personal portfolio showcasing skills, projects, certificates, and contact info with a clean responsive design.',
-  demoLink: 'https://rakesh-portfolio.vercel.app',
+  demoLink: 'https://rakesh-perla-portfolio.vercel.app/',
   githubLink: 'https://github.com/Rakesh-Perla/portfolio',
 },
   {
